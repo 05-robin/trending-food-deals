@@ -19,11 +19,11 @@ A React Native app displaying trending food deals.
 The project is organized into different folders to track everything clearly and ensure maintainability.
 
 
-- **`src/`**: Contains the core source code of the application.
+- **`Src/`**: Contains the core source code of the application.
   - **`Components/`**: Houses All the reusable UI components.
     - **`CardComponent/`**: It has CardComponent.tsx file
         - `CardComponent.tsx`: A card component to display individual food deals.
-  - **`screens/`**: Houses All the Screens.
+  - **`Screens/`**: Houses All the Screens.
       - **`TrendingDetailsScreen/`**: : Houses both the TrendingDeals Screen UI and its related logics using custom hook.
         - `TrendingDealsScreen.tsx`: Displays a list of trending food deals.
         - `UseTrendingScreen.ts`: Holds the state and its respective functions related to TrendingDealsScreen.tsx.
@@ -32,7 +32,7 @@ The project is organized into different folders to track everything clearly and 
   - **`Interface/`**: Contains TypeScript type definitions.
     - `DealBO.ts`: Defines the structure of a deal object.
 
-- **`App.tsx`**: The main entry point of the app.
+- **`App.js`**: The main entry point of the app.
 - **`README.md`**: Documentation with setup instructions and project details.
 - **`package.json`**: Contains project dependencies and scripts.
 
