@@ -6,10 +6,10 @@ A React Native app displaying trending food deals.
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/trending-food-deals.git
+   git clone https://github.com/05-robin/trending-food-deals.git
    cd trending-food-deals
 
-2. npm install or yarn install
+2. npm install
 
 3. npx react-native run-android
 
